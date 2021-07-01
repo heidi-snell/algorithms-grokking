@@ -7,13 +7,15 @@ binary search runs at log2(n) speed. all logs mentioned in this text are assumed
 
 # Exercises
 
-1.1
-you have a sorted list of 128 names. using binary search what is the max number of steps it would take?
+1.1 you have a sorted list of 128 names. using binary search what is the max number of steps it would take?
 
 A: binary speed = log2(n) = log2(128) = 7 steps at most
 
-1.2
-double the size of the list (now 256), how many steps?
+
+1.2 double the size of the list (now 256), how many steps?
 
 A: 8 steps max
+
+
+1.3 
 
