@@ -1,4 +1,4 @@
 # Notes
 
-## Arrays and Linked Lists
+## Arrays and Linked Lists 
 
